@@ -1,0 +1,15 @@
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\bin\Debug\net6.0\Eex7.exe
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\bin\Debug\net6.0\Eex7.deps.json
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\bin\Debug\net6.0\Eex7.runtimeconfig.json
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\bin\Debug\net6.0\Eex7.dll
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\bin\Debug\net6.0\Eex7.pdb
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\Eex7.csproj.AssemblyReference.cache
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\Eex7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\Eex7.AssemblyInfoInputs.cache
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\Eex7.AssemblyInfo.cs
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\Eex7.csproj.CoreCompileInputs.cache
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\Eex7.dll
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\refint\Eex7.dll
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\Eex7.pdb
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\Eex7.genruntimeconfig.cache
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Eex7\obj\Debug\net6.0\ref\Eex7.dll
