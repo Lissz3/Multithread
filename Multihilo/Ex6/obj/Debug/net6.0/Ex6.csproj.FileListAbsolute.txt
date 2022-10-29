@@ -1,0 +1,15 @@
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\bin\Debug\net6.0\Ex6.exe
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\bin\Debug\net6.0\Ex6.deps.json
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\bin\Debug\net6.0\Ex6.runtimeconfig.json
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\bin\Debug\net6.0\Ex6.dll
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\bin\Debug\net6.0\Ex6.pdb
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\Ex6.csproj.AssemblyReference.cache
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\Ex6.AssemblyInfoInputs.cache
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\Ex6.AssemblyInfo.cs
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\Ex6.csproj.CoreCompileInputs.cache
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\Ex6.dll
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\refint\Ex6.dll
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\Ex6.pdb
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\Ex6.genruntimeconfig.cache
+G:\Mi unidad\02.PROG SERV\Tema1\Multithread\Multihilo\Ex6\obj\Debug\net6.0\ref\Ex6.dll
