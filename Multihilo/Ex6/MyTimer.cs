@@ -34,14 +34,9 @@ namespace Ex6
 					{
 						Monitor.Wait(l);
 					}
-
-					if (!paused)
-					{
-						func.Invoke();
-						Thread.Sleep(Interval);
-					}
-
+					func.Invoke();
 				}
+				Thread.Sleep(Interval);
 
 			}
 
@@ -49,20 +44,19 @@ namespace Ex6
 
 		public void Run()
 		{
-			paused = false;
 			lock (l)
 			{
+				paused = false;
 				Monitor.Pulse(l);
 			}
 		}
 
 		public void Pause()
 		{
-			paused = true;
-			//lock (l)
-			//{
-			//	Monitor.Wait(l);
-			//}
+			lock (l)
+			{
+				paused = true;
+			}
 		}
 	}
 }
