@@ -126,7 +126,7 @@
 			player2.Join();
 
 			//El programa puede no terminar porque queda algún hilo corriendo. -> Join del display
-			display.Join();
+			//display.Join();
 
 			Console.SetCursorPosition(3, 6);
 
